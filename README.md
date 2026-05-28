@@ -72,7 +72,7 @@ Add dependency:
 
 ```yaml
 dependencies:
-  animated_loading_widget: ^0.0.1
+  animated_loading_widget: ^0.0.2
 ```
   
 # 🌐 GitHub
