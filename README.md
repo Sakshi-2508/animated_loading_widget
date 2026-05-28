@@ -1,7 +1,7 @@
 # 🎬 Animated Loading Widget
 
 ✨ Beautiful Story-Based Animated Loaders for Flutter ✨
-Instead of boring spinners, bring your loading states to life with animated micro-stories 🍞☕🌱📦
+Instead of boring spinners, bring your loading states to life with animated micro-stories
 
 ---
 
