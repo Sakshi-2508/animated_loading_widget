@@ -1,6 +1,10 @@
 name: animated_loading_widget
-description: Example app for animated_loading_widget
-publish_to: 'none'
+description: Beautiful story-based animated loaders for Flutter 🍞☕🌱📦
+version: 0.0.1
+
+homepage: https://github.com/Sakshi-2508/animated_loading_widget
+repository: https://github.com/Sakshi-2508/animated_loading_widget
+issue_tracker: https://github.com/Sakshi-2508/animated_loading_widget/issues
 
 environment:
   sdk: ^3.11.5
