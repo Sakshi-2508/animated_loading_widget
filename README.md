@@ -74,4 +74,8 @@ Add dependency:
 dependencies:
   animated_loading_widget: ^0.0.1
 
+# 🌐 GitHub
+View source code, report issues, or contribute here:
+
+https://github.com/Sakshi-2508/animated_loading_widget
   
