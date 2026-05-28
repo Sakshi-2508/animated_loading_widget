@@ -78,8 +78,5 @@ dependencies:
 # 🌐 GitHub
 View source code, report issues, or contribute here:
 
-  
-# 🌐 GitHub
-View source code, report issues, or contribute here:
-
 https://github.com/Sakshi-2508/animated_loading_widget
+https://pub.dev/packages/animated_loading_widget
