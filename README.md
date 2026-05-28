@@ -73,6 +73,10 @@ Add dependency:
 ```yaml
 dependencies:
   animated_loading_widget: ^0.0.1
+```
+  
+# 🌐 GitHub
+View source code, report issues, or contribute here:
 
   
 # 🌐 GitHub
